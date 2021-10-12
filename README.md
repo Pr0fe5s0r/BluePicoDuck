@@ -7,6 +7,7 @@ Hi there, Its is a open-source pico ducky with bluetooth Version. It's gone be a
 <a href="https://t.me/IAMTHEprofessor"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a><br>
 <h1>Discord id: professor#3976</h1>
 <br>
+
 ## Disclaimer
 
 **This is a tool.**  
